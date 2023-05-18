@@ -22,7 +22,8 @@ Check out some of the [amazing gardens that community members](https://quartz.jz
 ## 發布到github pages照上面Get Started說明網站發布
 ## 發布到cloudflare pages參考 [這篇](https://immmmm.com/hi-cloudflare/)設定
 最重要的是
-(1)框架 Hugo
-(2)建構命令 none，留空不寫
-(3)根目錄也是留空不寫
-(5)環境變數(進階)：變數名稱填HUGO_VERSION，值填0.92.0
+1. 生產分支:master
+2. 框架 Hugo
+3. 建構命令 none，留空不寫
+4. 根目錄也是留空不寫
+5. 環境變數(進階)：變數名稱填HUGO_VERSION，值填0.92.0
