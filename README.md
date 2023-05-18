@@ -27,3 +27,8 @@ Check out some of the [amazing gardens that community members](https://quartz.jz
 3. 建構命令 none，留空不寫
 4. 根目錄也是留空不寫
 5. 環境變數(進階)：變數名稱填HUGO_VERSION，值填0.92.0
+
+---
+# auto add the title (yaml) to all existing pages without one
+目前有人試做，需手動修改YAML屈，我目前尚未測試部屬
+[Quartz 中的邊欄](https://simons.dev/notes/Sidebar-in-Quartz/)
